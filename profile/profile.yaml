@@ -1,0 +1,123 @@
+# Preferred name (Characters only)
+name: "Keyurkumar Sheladeeya"
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-keyursheladeeya
+
+# Introduce yourself, your academic and professional background.
+# What excites you about the software industry and your passion. At least 80 words
+summary: I have acquired an Advanced Diploma in Software Engineering Technology - Artificial Intelligence from Centennial College, along with a Bachelor of Technology degree in Computer Engineering from Gujarat Technological University. Currently employed as a Software Developer at Jarvis Technologies Group Inc., I apply my skills to create efficient and effective software systems. Throughout my Advanced Diploma program, I worked on various challenging AI projects, enabling me to gain hands-on experience with cutting-edge technologies. I have a strong passion for working with numbers and enjoy tackling technical challenges. Collaborating in a team environment is something I thrive on, and I have a keen interest in both data engineering and developer positions. I have a rapid learning ability and always strive to expand my knowledge and skill set. Being part of a successful software development team excites me, and I look forward to the challenges and rewards that come with it.
+
+# Group your skills by level.
+# Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
+skills:
+  # At least 5 skills
+  proficient:
+    - Java
+    - Linux/Bash
+    - RDBMS/SQL
+    - Agile/Scrum
+    - Git/GitHub
+    - Python
+    - AI/ML
+  # At least 5 skills
+  competent:
+    - Docker
+    - Cloud Platforms
+    - REST APIs
+    - HTML/CSS
+    - Django/Flask
+  # At least 5 skills
+  familiar:
+    - Angular/React
+    - Spring Boot
+    - C/C++
+    - Node.js
+    - MongoDB
+
+# List of Jarvis projects
+jarvis_projects:
+  - name: "Cluster Monitor"
+    git_url: "/linux_sql"
+    # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: I created a Cluster Monitor Agent utilizing bash scripts, which enables users to monitor and save hardware specifications and usage data for multiple Linux systems. Once installed on each node, the monitoring agent automatically gathers hardware information and resource usage data from the server, storing it in a PostgreSQL database provisioned with Docker. Resource usage is obtained periodically using Crontab every minute, and the collected data can be manipulated through SQL queries. To ensure efficient code review and collaboration among team members, I implemented Git for version control and utilized GitHub as the central repository for the project, enabling effective code review and collaboration among team members.
+  - name: "Core Java Apps"
+    git_url: "/core_java"
+    description:
+      - "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+      - "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+      - "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+  - name: "Springboot App"
+    git_url: "/springboot"
+    description: ""
+  - name: "Python Data Analytics"
+    git_url: "/python_data_anlytics"
+    description: ""
+  - name: "Hadoop"
+    git_url: "/hadoop"
+    description: ""
+  - name: "Spark"
+    git_url: "/spark"
+    description: ""
+  - name: "Cloud/DevOps"
+    git_url: "/cloud_devops"
+    description: ""
+
+# List of personal or academic projects
+# Feel free to add more projects
+highlighted_projects:
+    #project name
+  - name: "Bicycle Theft Prediction with Supervised Learning"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: I performed data preprocessing, feature engineering, and data modeling for classification by implementing a fine-tuned model using Python's Data Pipelines. Subsequently, I utilized Postman to predict the likelihood of a bicycle being stolen by deploying the trained model and providing new data for prediction.
+  - name: "Student Success Prediction with Neural Network"
+    description: I developed an Artificial Neural Network (ANN) model using TensorFlow and Keras, leveraging real student data to predict their success level. Afterwards, I saved and integrated the trained model into a web application using Flask. For the front-end, I utilized Vue.js to create an interactive user interface.
+
+#List of professional experience
+#The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+#The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "Software Developer"
+    company: "Jarvis"
+    duration: "2023-present"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "I am a member of a collaborative team at Jarvis Technologies, where we work together to design, develop, and implement software systems. My expertise in Python and Java allows me to write high-quality, efficient, and scalable code. I use advanced tools like Docker, Linux/Bash, Git, and GitHub to manage the software development process and ensure the reliability of the code. My main focus is on delivering software features that meet the requirements, and I always stay updated with the latest industry trends and best practices. I actively participate in Agile development processes, following the Scrum methodology to meet project deadlines and deliver high-quality software solutions."
+  - title: "Junior Backend Developer"
+    company: "Techy Panther"
+    duration: "2019-2020"
+    description: "I was responsible for managing the backend portion of a small wedding project, including the development of APIs using the Django framework. I utilized PostgreSQL, an open-source relational database management system, to store and manage the project's data. Throughout the project, I gained experience in requirement gathering and error handling, which involved communicating with the client and collaborating with senior developers to ensure smooth execution."
+
+#List of edcuation
+education:
+  - school_name: "Centennial College"
+    duration: "2020-2022"
+    degree: "Advanced Diploma"
+    department: "Software Engineering Technology - Artificial Intelligence"
+    # optional
+    awards_achievements:
+      - "Graduated with high honors"
+      - "GPA: 3.9/4.0"
+  - school_name: "Gujarat Technological University"
+    duration: "2015-2019"
+    degree: "Bachelor of Engineering"
+    department: "Computer Engineering"
+    awards_achievements:
+      - "GPA: 3.7/4.0"
+
+#Optional section
+others:
+    #category
+  - title: "Certificates"
+    #list of items
+    bullets:
+      - "Android application development training (BrainyBeam Technologies Pvt. Ltd.: 2019)"
+  - title: "Activities/Hobbies"
+    bullets:
+      - "I have been actively involved as a cricket player, participating in various regional tournaments and achieved multiple awards for my accomplishments."
+      - "Participated in 'Hackathon 5.0' organized by Rajasthan Government at Bikaner."
+      - "Participated in 'TECHNOTHON 2K19' At Government Engineering College, Modasa."
+      - "Participated in Various Technical Events in multiple colleges during my bachelors"
+      - "traveler"
+
+
