@@ -5,24 +5,24 @@ github_repo_root_url: https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
-summary: I have acquired an Advanced Diploma in Software Engineering Technology - Artificial Intelligence from Centennial College, along with a Bachelor of Technology degree in Computer Engineering from Gujarat Technological University. Currently employed as a Software Developer at Jarvis Technologies Group Inc., I apply my skills to create efficient and effective software systems. Throughout my Advanced Diploma program, I worked on various challenging AI projects, enabling me to gain hands-on experience with cutting-edge technologies. I have a strong passion for working with numbers and enjoy tackling technical challenges. Collaborating in a team environment is something I thrive on, and I have a keen interest in both data engineering and developer positions. I have a rapid learning ability and always strive to expand my knowledge and skill set. Being part of a successful software development team excites me, and I look forward to the challenges and rewards that come with it.
+summary: I hold an Advanced Diploma in Software Engineering Technology - Artificial Intelligence from Centennial College, along with a Bachelor of Technology degree in Computer Engineering from Gujarat Technological University. Currently employed as a Software Developer at Jarvis Technologies Group Inc., I apply my skills to create efficient and effective software systems. Throughout my Advanced Diploma program, I worked on various challenging AI projects, enabling me to gain hands-on experience with cutting-edge technologies. Collaborating in a team environment is something I thrive on, and I am interested in both data engineering and developer positions. To further expand my skill set, I am actively enhancing my proficiency in Java while already proficient in Python. Being part of a successful software development team excites me, and I look forward to the challenges and rewards that come with it.
 
 # Group your skills by level.
 # Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
 skills:
   # At least 5 skills
   proficient:
-    - Java
-    - Linux/Bash
-    - RDBMS/SQL
-    - Agile/Scrum
-    - Git/GitHub
     - Python
     - AI/ML
+    - Java
+    - RDBMS/SQL
+    - Linux/Bash
+    - Agile/Scrum
+    - Git/GitHub
   # At least 5 skills
   competent:
     - Docker
-    - Cloud Platforms
+    - AWS/GCP
     - REST APIs
     - HTML/CSS
     - Django/Flask
@@ -84,11 +84,11 @@ professional_experience:
     company: "Jarvis"
     duration: "2023-present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: "I am a member of a collaborative team at Jarvis Technologies, where we work together to design, develop, and implement software systems. My expertise in Python and Java allows me to write high-quality, efficient, and scalable code. I use advanced tools like Docker, Linux/Bash, Git, and GitHub to manage the software development process and ensure the reliability of the code. My main focus is on delivering software features that meet the requirements, and I always stay updated with the latest industry trends and best practices. I actively participate in Agile development processes, following the Scrum methodology to meet project deadlines and deliver high-quality software solutions."
+    description: "I am a member of a collaborative team at Jarvis Technologies, where we work together to design, develop, and implement software systems. My expertise in Python and Java allows me to write high-quality, efficient, and scalable code. I use the tools like Docker, Linux/Bash, Git, and GitHub to manage the software development process and ensure the reliability of the code. My main focus is on delivering software features that meet the requirements, and I always stay updated with the latest industry trends and best practices. I actively participate in Agile development processes, following the Scrum methodology to meet project deadlines and deliver high-quality software solutions."
   - title: "Junior Backend Developer"
     company: "Techy Panther"
     duration: "2019-2020"
-    description: "I was responsible for managing the backend portion of a small wedding project, including the development of APIs using the Django framework. I utilized PostgreSQL, an open-source relational database management system, to store and manage the project's data. Throughout the project, I gained experience in requirement gathering and error handling, which involved communicating with the client and collaborating with senior developers to ensure smooth execution."
+    description: "I successfully managed the backend infrastructure of a wedding application project, taking charge of API development using the Django framework and leveraging PostgreSQL for efficient data storage and management. Collaborating closely with senior developers and actively engaging with clients, I excelled in gathering requirements and implementing effective error handling strategies to ensure seamless project execution."
 
 #List of edcuation
 education:
@@ -120,6 +120,5 @@ others:
       - "Participated in 'Hackathon 5.0' organized by Rajasthan Government at Bikaner."
       - "Participated in 'TECHNOTHON 2K19' At Government Engineering College, Modasa."
       - "Participated in Various Technical Events in multiple colleges during my bachelors"
-      - "traveler"
 
 
