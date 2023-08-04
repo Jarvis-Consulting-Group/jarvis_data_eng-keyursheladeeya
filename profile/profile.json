@@ -36,6 +36,11 @@
       "description": "I created a Cluster Monitor Agent utilizing bash scripts, which enables users to monitor and save hardware specifications and usage data for multiple Linux systems. Once installed on each node, the monitoring agent automatically gathers hardware information and resource usage data from the server, storing it in a PostgreSQL database provisioned with Docker. Resource usage is obtained periodically using Crontab every minute, and the collected data can be manipulated through SQL queries. To ensure efficient code review and collaboration among team members, I implemented Git for version control and utilized GitHub as the central repository for the project, enabling effective code review and collaboration among team members.",
       "git_url": "/linux_sql",
       "name": "Cluster Monitor"
+    },
+    {
+      "description": "JDBC App: In this project, utilized Data Access Object and Repository patterns and the Core Java JDBC API with Maven-managed dependencies to perform CRUD operations on an existing dataset within a PostgreSQL database deployed on a Docker container, while testing the application using SLF4J logger and accessing the database from a terminal.",
+      "git_url": "/core_java",
+      "name": "Core Java App"
     }
   ],
   "name": "Keyurkumar Sheladeeya",
