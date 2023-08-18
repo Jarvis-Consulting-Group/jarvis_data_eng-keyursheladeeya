@@ -23,11 +23,11 @@
   "github_repo_root_url": "https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-keyursheladeeya",
   "highlighted_projects": [
     {
-      "description": "I performed data preprocessing, feature engineering, and data modeling for classification by implementing a fine-tuned model using Python's Data Pipelines. Subsequently, I utilized Postman to predict the likelihood of a bicycle being stolen by deploying the trained model and providing new data for prediction.",
+      "description": "Performed data preprocessing, feature engineering, and data modeling for classification by implementing a fine-tuned model using Python's Data Pipelines. Subsequently, I utilized Postman to predict the likelihood of a bicycle being stolen by deploying the trained model and providing new data for prediction.",
       "name": "Bicycle Theft Prediction with Supervised Learning"
     },
     {
-      "description": "I developed an Artificial Neural Network (ANN) model using TensorFlow and Keras, leveraging real student data to predict their success level. Afterwards, I saved and integrated the trained model into a web application using Flask. For the front-end, I utilized Vue.js to create an interactive user interface.",
+      "description": "Developed an Artificial Neural Network (ANN) model using TensorFlow and Keras, leveraging real student data to predict their success level. Afterwards, I saved and integrated the trained model into a web application using Flask. For the front-end, I utilized Vue.js to create an interactive user interface.",
       "name": "Student Success Prediction with Neural Network"
     }
   ],
@@ -55,8 +55,7 @@
       "bullets": [
         "I have been actively involved as a cricket player, participating in various regional tournaments and achieved multiple awards for my accomplishments.",
         "Participated in 'Hackathon 5.0' organized by Rajasthan Government at Bikaner.",
-        "Participated in 'TECHNOTHON 2K19' At Government Engineering College, Modasa.",
-        "Participated in Various Technical Events in multiple colleges during my bachelors"
+        "Participated in 'TECHNOTHON 2K19' At Government Engineering College, Modasa."
       ],
       "title": "Activities/Hobbies"
     }
@@ -91,14 +90,14 @@
       "MongoDB"
     ],
     "proficient": [
-      "Python",
-      "AI/ML",
       "Java",
+      "Python",
       "RDBMS/SQL",
       "Linux/Bash",
       "Agile/Scrum",
-      "Git/GitHub"
+      "Git/GitHub",
+      "ML Algorithms"
     ]
   },
-  "summary": "I hold an Advanced Diploma in Software Engineering Technology - Artificial Intelligence from Centennial College, along with a Bachelor of Technology degree in Computer Engineering from Gujarat Technological University. Currently employed as a Software Developer at Jarvis Technologies Group Inc., I apply my skills to create efficient and effective software systems. Throughout my Advanced Diploma program, I worked on various challenging AI projects, enabling me to gain hands-on experience with cutting-edge technologies. Collaborating in a team environment is something I thrive on, and I am interested in both data engineering and developer positions. To further expand my skill set, I am actively enhancing my proficiency in Java while already proficient in Python. Being part of a successful software development team excites me, and I look forward to the challenges and rewards that come with it."
+  "summary": "I hold an Advanced Diploma in Software Engineering Technology - Artificial Intelligence from Centennial College, along with a Bachelor of Technology degree in Computer Engineering from Gujarat Technological University. Currently employed as a Software Developer at Jarvis Technologies Group Inc., I apply my skills to create efficient and effective software systems. Throughout my Advanced Diploma program, I worked on various challenging AI projects, enabling me to gain hands-on experience with cutting-edge technologies. Collaborating in a team environment is something I thrive on, and I am interested in both data engineering and developer positions. To further expand my skill set, I am actively enhancing my proficiency in Java while already proficient in Python Framework called Django. Being part of a successful software development team excites me, and I look forward to the challenges and rewards that come with it."
 }
