@@ -5,20 +5,20 @@ github_repo_root_url: https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
-summary: I hold an Advanced Diploma in Software Engineering Technology - Artificial Intelligence from Centennial College, along with a Bachelor of Technology degree in Computer Engineering from Gujarat Technological University. Currently employed as a Software Developer at Jarvis Technologies Group Inc., I apply my skills to create efficient and effective software systems. Throughout my Advanced Diploma program, I worked on various challenging AI projects, enabling me to gain hands-on experience with cutting-edge technologies. Collaborating in a team environment is something I thrive on, and I am interested in both data engineering and developer positions. To further expand my skill set, I am actively enhancing my proficiency in Java while already proficient in Python. Being part of a successful software development team excites me, and I look forward to the challenges and rewards that come with it.
+summary: I hold an Advanced Diploma in Software Engineering Technology - Artificial Intelligence from Centennial College, along with a Bachelor of Technology degree in Computer Engineering from Gujarat Technological University. Currently employed as a Software Developer at Jarvis Technologies Group Inc., I apply my skills to create efficient and effective software systems. Throughout my Advanced Diploma program, I worked on various challenging AI projects, enabling me to gain hands-on experience with cutting-edge technologies. Collaborating in a team environment is something I thrive on, and I am interested in both data engineering and developer positions. To further expand my skill set, I am actively enhancing my proficiency in Java while already proficient in Python Framework called Django. Being part of a successful software development team excites me, and I look forward to the challenges and rewards that come with it.
 
 # Group your skills by level.
 # Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
 skills:
   # At least 5 skills
   proficient:
-    - Python
-    - AI/ML
     - Java
+    - Python
     - RDBMS/SQL
     - Linux/Bash
     - Agile/Scrum
     - Git/GitHub
+    - ML Algorithms
   # At least 5 skills
   competent:
     - Docker
@@ -41,6 +41,13 @@ jarvis_projects:
     # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     description: I created a Cluster Monitor Agent utilizing bash scripts, which enables users to monitor and save hardware specifications and usage data for multiple Linux systems. Once installed on each node, the monitoring agent automatically gathers hardware information and resource usage data from the server, storing it in a PostgreSQL database provisioned with Docker. Resource usage is obtained periodically using Crontab every minute, and the collected data can be manipulated through SQL queries. To ensure efficient code review and collaboration among team members, I implemented Git for version control and utilized GitHub as the central repository for the project, enabling effective code review and collaboration among team members.
+
+  - name: "Core Java App"
+    git_url: "/core_java"
+    # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description:
+        "JDBC App: In this project, utilized Data Access Object and Repository patterns and the Core Java JDBC API with Maven-managed dependencies to perform CRUD operations on an existing dataset within a PostgreSQL database deployed on a Docker container, while testing the application using SLF4J logger and accessing the database from a terminal."
 
 #  - name: "Core Java Apps"
 #    git_url: "/core_java"
@@ -71,9 +78,9 @@ highlighted_projects:
     #project name
   - name: "Bicycle Theft Prediction with Supervised Learning"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: I performed data preprocessing, feature engineering, and data modeling for classification by implementing a fine-tuned model using Python's Data Pipelines. Subsequently, I utilized Postman to predict the likelihood of a bicycle being stolen by deploying the trained model and providing new data for prediction.
+    description: Performed data preprocessing, feature engineering, and data modeling for classification by implementing a fine-tuned model using Python's Data Pipelines. Subsequently, I utilized Postman to predict the likelihood of a bicycle being stolen by deploying the trained model and providing new data for prediction.
   - name: "Student Success Prediction with Neural Network"
-    description: I developed an Artificial Neural Network (ANN) model using TensorFlow and Keras, leveraging real student data to predict their success level. Afterwards, I saved and integrated the trained model into a web application using Flask. For the front-end, I utilized Vue.js to create an interactive user interface.
+    description: Developed an Artificial Neural Network (ANN) model using TensorFlow and Keras, leveraging real student data to predict their success level. Afterwards, I saved and integrated the trained model into a web application using Flask. For the front-end, I utilized Vue.js to create an interactive user interface.
 
 #List of professional experience
 #The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
@@ -119,6 +126,5 @@ others:
       - "I have been actively involved as a cricket player, participating in various regional tournaments and achieved multiple awards for my accomplishments."
       - "Participated in 'Hackathon 5.0' organized by Rajasthan Government at Bikaner."
       - "Participated in 'TECHNOTHON 2K19' At Government Engineering College, Modasa."
-      - "Participated in Various Technical Events in multiple colleges during my bachelors"
 
 
